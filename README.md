@@ -1,2 +1,2 @@
-# JamShopping
+# Emej
 Jamaica shopping app
