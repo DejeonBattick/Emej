@@ -1,2 +1,0 @@
-# JamShopping
-Jamaica shopping app
