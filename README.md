@@ -1,2 +1,0 @@
-# Emej
-Jamaica shopping app
